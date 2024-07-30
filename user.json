@@ -1,0 +1,14 @@
+{
+    "developer": {
+        "username": "developer",
+        "plain_password": "pwd_developer_124_!@#",
+        "hashed_password": "$2b$12$u/CYtlxcMI3SAljjYduj5eHE.ZkEtWMGR3uKUmzSbamhrfqdI76OG",
+        "disabled": "False"
+    },
+    "tester": {
+        "username": "tester",
+        "plain_password": "pwd_tester_124_!@#",
+        "hashed_password": "$2b$12$ebtgyoqSCocsKu6ZePoMk.6NycEGbnhLDIQnWMSp2VMBXO4r1IKqa",
+        "disabled": "False"
+    }
+}
